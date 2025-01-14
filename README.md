@@ -7,9 +7,4 @@ I'm **Rosh Ho**, a passionate **Computer Science Engineer** 🎓 at **Columbia U
 - 🚴‍♂️ Avid **cyclist**, 🧗‍♂️ enthusiastic **rock climber**, and 🖨️ obsessed with **3D printing**!  
 
 ## 🌐 Let's Connect!  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rh3210)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshho)  
-
----
-
-💻 **"Coding the future, one project at a time."**  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rh3210) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshho)  
