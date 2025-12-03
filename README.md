@@ -2,10 +2,6 @@
 
 # 👋 Hi there!
 
-I'm **Rosh Ho**, a **Computer Science Engineer** 🎓 passionate about building intelligent, hardware-integrated systems at the intersection of **computer vision**, **robotics**, and **assistive technology**. Currently developing cutting-edge solutions for **stroke rehabilitation** through advanced **robotic orthosis design** and **edge AI systems**.
-
----
-
 ## 🎯 Technical Expertise
 
 <div align="center">
@@ -46,23 +42,3 @@ I'm **Rosh Ho**, a **Computer Science Engineer** 🎓 passionate about building 
 - 🖨️ 3D printing enthusiast (CAD → prototype iteration)
 - 🎓 Columbia University alumnus (General Studies)
 - 📍 Based in NYC | Open to graduate research opportunities globally
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/roshho)](https://linkedin.com/in/roshho)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@rh3210)](https://medium.com/@rh3210)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:r.ho@columbia.edu)](mailto:r.ho@columbia.edu)
-
-</div>
-
----
-
-<div align="center">
-  
-  *Combining hardware engineering, computer vision, and edge AI to create technology that restores mobility.*
-
-</div>
