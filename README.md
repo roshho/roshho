@@ -15,15 +15,10 @@ I'm **Rosh Ho**, a **Computer Science Engineer** 🎓 passionate about building 
   <img src="https://img.shields.io/badge/Soft%20Robotics-Pneumatics-FF6B6B?style=flat" alt="Soft Robotics"/>
   <img src="https://img.shields.io/badge/Rehab%20Robotics-Exoskeleton%20Design-FF6B6B?style=flat" alt="Rehabilitation Robotics"/>
 
-  <!-- Computer Vision -->
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLO-4ECDC4?style=flat&logo=opencv&logoColor=white" alt="Computer Vision YOLO"/>
-  <img src="https://img.shields.io/badge/Edge%20Inference-Raspberry%20Pi%205-4ECDC4?style=flat&logo=raspberrypi&logoColor=white" alt="Edge Inference"/>
-  <img src="https://img.shields.io/badge/Grasp%20Recognition-96.7%25%20Accuracy-4ECDC4?style=flat" alt="Grasp Recognition"/>
 
   <!-- Backend & Systems -->
   <img src="https://img.shields.io/badge/Backend%20Engineering-Parallel%20Optimization-95E1D3?style=flat&logo=python&logoColor=white" alt="Backend Engineering"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-ESP32-95E1D3?style=flat&logo=espressif&logoColor=white" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/Real--Time%20Systems-38ms%20Latency-95E1D3?style=flat" alt="Real-Time Systems"/>
 
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-Deep%20Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -32,49 +27,6 @@ I'm **Rosh Ho**, a **Computer Science Engineer** 🎓 passionate about building 
   <img src="https://img.shields.io/badge/CAD-3D%20Printing-F7931E?style=flat&logo=autodesk&logoColor=white" alt="CAD & 3D Printing"/>
 
 </div>
-
----
-
-## 🚀 Featured Work: ReGlove
-
-**Vision-Based Control of Commercial Pneumatic Gloves for Dexterous Grasping in Chronic Upper-Limb Impairment**
-
-An end-to-end system that transforms low-cost pneumatic rehabilitation gloves into vision-guided orthoses for stroke rehabilitation and chronic upper-limb impairment recovery.
-
-### 🎯 Key Achievements
-
-| Metric | Result |
-|--------|--------|
-| **Grasp Classification Accuracy** | 96.7% (YOLO-based wrist-mounted vision) |
-| **System Latency** | 38 ± 6.4 ms end-to-end (Raspberry Pi 5) |
-| **YCB Benchmark Success Rate** | 82.7% dexterous grasping performance |
-| **Hardware Cost** | $160–270 (low-cost, clinically translatable) |
-| **Deployment Target** | Edge inference on ARM processors |
-
-### 🔧 Technical Stack
-
-**Computer Vision & Perception:**
-- YOLO object detection (wrist-mounted grasp recognition)
-- Dataset aggregation & augmentation (3 public grasp datasets)
-- Real-time inference optimization on edge hardware
-
-**Robotics & Control:**
-- Pneumatic actuation & pressure control
-- Multi-DOF finger coordination
-- Closed-loop grasp feedback systems
-- Kinematics & dexterous manipulation
-
-**Embedded Systems & Backend:**
-- Raspberry Pi 5 edge computing
-- Binary intent trigger integration (sEMG or tactile switch)
-- Low-latency perception-to-actuation pipeline
-- Parallel optimization for real-time performance
-
-### 📄 Publication
-
-**ReGlove: Vision-Based Control of Commercial Pneumatic Gloves for Dexterous Grasping in Chronic Upper-Limb Impairment**  
-*Rosh Ho, Jian Zhang — Columbia University*  
-📋 **Paper in Review** — Ready for clinical validation
 
 ---
 
@@ -107,17 +59,6 @@ An end-to-end system that transforms low-cost pneumatic rehabilitation gloves in
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=roshho&show_icons=true&hide_border=true&theme=dark&bg_color=1a1a1a" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshho&theme=dark&background=1a1a1a" alt="GitHub Streak" width="48%"/>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -132,8 +73,6 @@ An end-to-end system that transforms low-cost pneumatic rehabilitation gloves in
 ---
 
 <div align="center">
-
-  **Building the future of assistive robotics, one grasp at a time.** 🦾
   
   *Combining hardware engineering, computer vision, and edge AI to create technology that restores mobility.*
 
