@@ -4,25 +4,16 @@
 
 ## 🎯 Technical Expertise
 
-<div align="center">
+  <div>
+    <h3>Programming Languages</h3>
+    <p>C / C++, Python, Go, SQL</p>
 
-  <!-- Robotics -->
-  <img src="https://img.shields.io/badge/Robotics-Edge%20AI-FF6B6B?style=flat&logo=raspberrypi&logoColor=white" alt="Robotics Edge AI"/>
-  <img src="https://img.shields.io/badge/Soft%20Robotics-Pneumatics-FF6B6B?style=flat" alt="Soft Robotics"/>
-  <img src="https://img.shields.io/badge/Rehab%20Robotics-Exoskeleton%20Design-FF6B6B?style=flat" alt="Rehabilitation Robotics"/>
+    <h3>Technologies</h3>
+    <p>Linux, Git, ROS, MySQL, AWS, Jupyter, CAD, Fusion 360, SCRUM</p>
 
-
-  <!-- Backend & Systems -->
-  <img src="https://img.shields.io/badge/Backend%20Engineering-Parallel%20Optimization-95E1D3?style=flat&logo=python&logoColor=white" alt="Backend Engineering"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-ESP32-95E1D3?style=flat&logo=espressif&logoColor=white" alt="Embedded Systems"/>
-
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-Deep%20Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-Realtime%20Control-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/ROS-Robotics%20Framework-22314E?style=flat&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/CAD-3D%20Printing-F7931E?style=flat&logo=autodesk&logoColor=white" alt="CAD & 3D Printing"/>
-
-</div>
+    <h3>Specialties</h3>
+    <p>Low-latency systems, algorithm optimization, automated testing, data analysis</p>
+  </div>
 
 ---
 
