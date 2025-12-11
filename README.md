@@ -3,17 +3,9 @@
 # 👋 Hi there!
 
 ## 🎯 Technical Expertise
-
-  <div>
-    <h3>Programming Languages</h3>
-    <p>C / C++, Python, Go, SQL</p>
-
-    <h3>Technologies</h3>
-    <p>Linux, Git, ROS, MySQL, AWS, Jupyter, CAD, Fusion 360, SCRUM</p>
-
-    <h3>Specialties</h3>
-    <p>Low-latency systems, algorithm optimization, automated testing, data analysis</p>
-  </div>
+  - **Programming Languages**: C/C++, Python, Go, SQL
+  - **Technologies**: Linux, Git, ROS, MySQL, AWS, Jupyter, CAD, Fusion 360
+  - **Specialties**: Low-latency systems, algorithm optimization, automated testing, data analysis
 
 ---
 
@@ -31,5 +23,5 @@
 
 - 🚴 Competitive cyclist and passionate rock climber
 - 🖨️ 3D printing enthusiast (CAD → prototype iteration)
-- 🎓 Columbia University alumnus (General Studies)
+- 🎓 Columbia University alumnus
 - 📍 Based in NYC | Open to graduate research opportunities globally
