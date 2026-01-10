@@ -9,19 +9,7 @@
 
 ---
 
-## 🎯 Research Interests & Projects
-
-- 🧠 Vision-language models for assistive robotics
-- 🤝 Dexterous manipulation, grasp synthesis, and tactile feedback
-- 🔬 Clinical translation of rehabilitation technology
-- 🚀 Edge AI systems for real-time robotic control
-- 🏥 Assistive devices for stroke recovery and upper-limb impairment
-
----
-
 ## 🌟 Beyond Code
-
 - 🚴 Competitive cyclist and passionate rock climber
-- 🖨️ 3D printing enthusiast (CAD → prototype iteration)
-- 🎓 Columbia University alumnus
-- 📍 Based in NYC | Open to graduate research opportunities globally
+- 🖨️ 3D printing enthusiast (CAD → prototype iteration) - [prior work](https://www.roshho.com/pdf/robotics-spot.pdf)
+- 📍 Based in NYC
